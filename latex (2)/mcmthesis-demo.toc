@@ -1,0 +1,26 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}Problem Restatement}{2}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}Our Work}{2}{subsection.1.2}% 
+\contentsline {section}{\numberline {2}Assumptions \& Definitions}{2}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Assumptions}{2}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Definitions and Terminologies}{3}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}Model Pipeline}{3}{subsection.2.3}% 
+\contentsline {section}{\numberline {3}Passing Network: A Graph Perspective}{3}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Weighted Directed Graph As Passing Network}{4}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Macroscale}{4}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}Mesoscale}{6}{subsection.3.3}% 
+\contentsline {subsubsection}{\numberline {3.3.1}Dyadic configuration}{8}{subsubsection.3.3.1}% 
+\contentsline {subsubsection}{\numberline {3.3.2}Triadic configuration}{8}{subsubsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.4}Microscale}{9}{subsection.3.4}% 
+\contentsline {subsection}{\numberline {3.5}Temporal evolution for network properties}{10}{subsection.3.5}% 
+\contentsline {subsubsection}{\numberline {3.5.1}Match-to-match Scale}{10}{subsubsection.3.5.1}% 
+\contentsline {subsubsection}{\numberline {3.5.2}50 Passes Rolling Window}{11}{subsubsection.3.5.2}% 
+\contentsline {section}{\numberline {4}Measuring Team Performance: Indicators and Structural Equation Model}{12}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Performance indicators}{12}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Model Construct: Structural Equation Model(SEM)}{14}{subsection.4.2}% 
+\contentsline {section}{\numberline {5}Strategies Making}{15}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}Seasonal Review}{15}{subsection.5.1}% 
+\contentsline {subsubsection}{\numberline {5.1.1}player analysis}{15}{subsubsection.5.1.1}% 
+\contentsline {subsection}{\numberline {5.2}Team Analysis}{18}{subsection.5.2}% 
+\contentsline {subsection}{\numberline {5.3}Advice For Next Season}{18}{subsection.5.3}% 
+\contentsline {section}{\numberline {6}More Than Football}{19}{section.6}% 
